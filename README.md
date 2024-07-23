@@ -2,7 +2,7 @@
 <div>
   <a />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&theme=radical"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
