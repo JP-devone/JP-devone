@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Pedro!
+## Olá! Eu sou o João Pedro e atualmente estou estudando a linguagem Kotlin!
 <div>
   <a />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&theme=radical"/>
