@@ -1,4 +1,5 @@
-## Olá! Eu sou o João Pedro e atualmente estou estudando a linguagem Kotlin!
+## Olá! Eu sou o João Pedro!
+Sou apaixonado por desenvolvimento mobile e atualmente estou estudando a linguagem Kotlin para aprimorar meus conhecimentos!
 <div>
   <a />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&theme=radical"/>
