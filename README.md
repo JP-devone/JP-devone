@@ -1,10 +1,14 @@
 ## Olá! Eu sou o João Pedro!
 Atualmente estou estudando Java e Spring Boot!
-<div>
-  <a />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&theme=radical"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&theme=radical"/>
+
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=JP-devone&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=omni"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
