@@ -45,3 +45,5 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JP-devone/JP-devone/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JP-devone/JP-devone/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0079f9&section=footer"/>
