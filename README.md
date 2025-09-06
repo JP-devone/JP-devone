@@ -6,7 +6,7 @@ Atualmente estou estudando Java e Spring Boot!
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&font=Iosevka&langs_count=16&bg_color=00000000"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP-devone&bg_color=transparant"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP-devone&?theme=transparent"/>
 </div>
 
 <div style="display: inline_block"><br>
