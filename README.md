@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
+  <b>`ジョアン・ペドロ`</b>
   <samp>
       <br>
       Hi there! I'm <b>João Pedro</b>
