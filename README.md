@@ -1,5 +1,4 @@
-## Olá! Eu sou o João Pedro!
-Atualmente estou estudando Java e Spring Boot!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0079f9"/>
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&bg_color=00000000"/>
@@ -27,5 +26,4 @@ Atualmente estou estudando Java e Spring Boot!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JP-devone/JP-devone/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JP-devone/JP-devone/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JP-devone/YourUser/output/github-contribution-grid-snake.svg">
 </picture>
