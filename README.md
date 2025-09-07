@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
- 
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Be+Welcome!;I'm+student+of+Engineer+of+Software" alt="Typing SVG" /></a>
 </div>
 
 <br>
