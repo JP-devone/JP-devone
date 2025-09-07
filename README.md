@@ -67,7 +67,7 @@
  
 <div align="center"> 
   <a href="https://www.instagram.com/jpdevone/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0162a7?style=for-the-badge&logo=Instagram" target="_blank"></a>
-  <a href = "mailto:joaopedrobvictor@hotmail.com"><img src="https://img.shields.io/badge/Gmail-0162a7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jpbomfim25@gmail.com"><img src="https://img.shields.io/badge/Gmail-0162a7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bomfim-victor-037a01286/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0162a7?style=for-the-badge&logo=Linkedin" target="_blank"></a> 
 </div>
 
