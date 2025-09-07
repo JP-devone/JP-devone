@@ -70,6 +70,12 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bomfim-victor-037a01286/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0162a7?style=for-the-badge&logo=Linkedin" target="_blank"></a> 
 </div>
 
+<br>
+
+<div align=""center">
+  <p align=""center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJP-devone&s=40&c=0033ff&bg=00000000&no=4&ff=digi&tb=&ta=+Visitors+"/></p>
+</div>
+
 
 
 <div align="center">
