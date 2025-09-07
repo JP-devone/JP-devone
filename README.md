@@ -17,14 +17,16 @@
 
 <br>
 
-<div align="center">
-  |<img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&bg_color=00000000"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&font=Iosevka&langs_count=16&bg_color=00000000"/>|
-  
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP-devone&theme=transparent"/>
-</div>
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&bg_color=00000000"/>
+
+<br>
+
+<img height="180" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&font=Iosevka&langs_count=16&bg_color=00000000"/>
+
+<br><br>
+
+<img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP-devone&theme=transparent"/>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
