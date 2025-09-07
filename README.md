@@ -37,7 +37,7 @@
 
  <div align="center">
       <samp>
-      <b>Languages and tools</b>
+      <b>Languages and Tools</b>
     </samp>
  </div>
  
