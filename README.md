@@ -28,6 +28,7 @@
   <br>
 
   <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JP-devone&theme=transparent"/> 
+  <img align="center" alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=JP-devone&theme=transparent&bg_color=00000000"/> 
 </div>
 <br>
 
