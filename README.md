@@ -19,7 +19,7 @@
 
 <| GitHub Stats | Top Languages |
 |--------------|----------------|
-| <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&bg_color=00000000"/> | <img height="180" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&font=Iosevka&langs_count=16&bg_color=00000000"/> |
+| <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JP-devone&show_icons=true&bg_color=00000000"/> | <img height="180" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-devone&layout=compact&font=Iosevka&langs_count=16&bg_color=00000000"/> |>
 
 <br>
 
