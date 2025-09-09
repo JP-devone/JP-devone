@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-   <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome!;I'm+student+of+Engineer+of+Software;I'm+from+Brazil!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=&weight=900&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Be+Welcome!;I'm+student+of+Software+Engineer;I'm+from+Brazil!" alt="Typing SVG" />
 </div>
 
 <br>
