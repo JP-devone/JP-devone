@@ -77,7 +77,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJP-devone&s=40&c=0055ff&bg=00000000&no=4&ff=digi&tb=profile+visitors%3A+&ta="/></p>
+  <img src="https://komarev.com/ghpvc/?username=JP-devone&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 
