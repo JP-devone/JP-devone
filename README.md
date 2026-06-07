@@ -21,8 +21,8 @@
 
 <br>
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JP-devone&show_icons=true&hide_border=true&theme=transparent"/>
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JP-devone&layout=compact&hide_border=true&theme=transparent"/>
+  <img height="180" src="https://github-readme-stats-jpdev.vercel.app/api?username=JP-devone&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats-jpdev.vercel.app/api/top-langs/?username=JP-devone&layout=compact&hide_border=true&theme=transparent" />
 
   <br>
   <br>
