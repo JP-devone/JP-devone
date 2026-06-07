@@ -37,15 +37,7 @@
 
  <div align="center">
       <samp>
-      <b>Languages and Tools</b>
-    </samp>
- </div>
- 
- <br>
-
- <div align="center">
-      <samp>
-      <b>### 💻 Tecnologias</b>
+      <b>💻 Technologies</b>
     </samp>
  </div>
 
@@ -60,7 +52,7 @@
 
 <div align="center">
       <samp>
-      <b>### 📚 Atualmente estudando</b>
+      <b> 📚 Currently Learning</b>
     </samp>
  </div>
 
