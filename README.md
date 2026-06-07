@@ -37,7 +37,7 @@
 
  <div align="center">
       <samp>
-      <b>💻 Technologies</b>
+      <b>Technologies</b>
     </samp>
  </div>
 
@@ -49,10 +49,11 @@
   <img align="center" alt="JP-CSharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<br>
 
 <div align="center">
       <samp>
-      <b> 📚 Currently Learning</b>
+      <b>Currently Learning</b>
     </samp>
  </div>
 
