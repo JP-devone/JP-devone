@@ -77,7 +77,7 @@
 <br>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=JP-devone&label=VISITORS&color=0891b2&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=JP-devone&label=Visitors&color=0055ff&style=for-the-badge" />
 </div>
 
 
