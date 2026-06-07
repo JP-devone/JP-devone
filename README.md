@@ -70,15 +70,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-bomfim-victor-037a01286/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0162a7?style=for-the-badge&logo=Linkedin" target="_blank"></a> 
 </div>
 
-<br>
-
-##
-
-<br>
-
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=JP-devone&label=Visitors&color=0055ff&style=for-the-badge" />
-</div>
 
 
 
